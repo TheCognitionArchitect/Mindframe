@@ -1,4 +1,7 @@
-# Prompt Framework Documentation
+title: Simple Mind Framework Template
+permalink: /Simple-MindFrame/
+
+# Simple Mind Framework Documentation
 
 ## Overview
 
