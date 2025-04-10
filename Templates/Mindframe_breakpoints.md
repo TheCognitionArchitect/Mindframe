@@ -1,3 +1,6 @@
+title: Breakpoints Mind Framework Template
+permalink: /Breakpoints-MindFrame/
+
 # Prompt Framework Documentation with AI Breakpoints
 
 [OVERVIEW]
