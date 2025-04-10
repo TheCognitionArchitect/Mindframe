@@ -1,3 +1,6 @@
+title: Advanced Mind Framework Template
+permalink: /Advanced-MindFrame/
+
 # Mind Framework Documentation (Advanced with Optional Variables)
 
 [OVERVIEW]
